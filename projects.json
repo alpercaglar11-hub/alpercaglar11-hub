@@ -1,0 +1,23 @@
+[
+  {
+    "name": "LeadGen",
+    "repo": "alpercaglar11-hub/leadgen",
+    "logo": "logos/leadgen.png",
+    "description": "Autonomous B2B lead generation agent — find 100 qualified leads while you sleep",
+    "tags": ["Python", "FastAPI", "Docker", "Stripe"]
+  },
+  {
+    "name": "OpenClaw",
+    "repo": "alpercaglar11-hub/openclaw-sandbox",
+    "logo": "logos/openclaw.png",
+    "description": "Autonomous AI agent platform with Telegram interface, tool calling, and Cascade integration",
+    "tags": ["Python", "FastAPI", "DeepSeek", "Docker"]
+  },
+  {
+    "name": "Cascade",
+    "repo": "alpercaglar11-hub/the-cascade-simulation",
+    "logo": "logos/cascade.png",
+    "description": "Distributed systems failure simulation engine with ML failure prediction",
+    "tags": ["Python", "XGBoost", "Docker", "Simulation"]
+  }
+]
